@@ -36,7 +36,7 @@ export function VortexDemo() {
 const TypewriterEffectSmoothDemo = () => {
   const words = [
     {
-      text: "Run",
+      text: "Run educational ",
     },
     {
       text: "campaigns",
@@ -45,7 +45,7 @@ const TypewriterEffectSmoothDemo = () => {
       text: "with",
     },
     {
-      text: "Bnb-Ads.",
+      text: "Course-Cast",
       className: "text-purple-500 dark:text-purple-500",
     },
   ];
