@@ -5,10 +5,16 @@ Course-Cast is a platform designed for running educational advertising campaigns
 ---
 
 Network Deployment Details
+
 Chain ID: 656476
+
 Settlement Layer: Arbitrum Sepolia 421614
+
 RPC URL: https://rpc.open-campus-codex.gelato.digital
+
 Explorer: https://opencampus-codex.blockscout.com/
+
+
 Contract Address: 0xF5CD700Cb63696CAb29987AC22fd431eB8A15886
 
 ---
