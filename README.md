@@ -2,6 +2,17 @@
 
 Course-Cast is a platform designed for running educational advertising campaigns targeted at specific regions such as Asia, the Pacific, and Europe. Organisations can initiate their campaigns by depositing Ethereum (ETH), after which the campaign goes live on our platform.
 
+---
+
+Network Deployment Details
+Chain ID: 656476
+Settlement Layer: Arbitrum Sepolia 421614
+RPC URL: https://rpc.open-campus-codex.gelato.digital
+Explorer: https://opencampus-codex.blockscout.com/
+Contract Address: 0xF5CD700Cb63696CAb29987AC22fd431eB8A15886
+
+---
+
 ## Features
 
 - **Campaign Management:** Start advertising campaigns targeted to specific regions.
